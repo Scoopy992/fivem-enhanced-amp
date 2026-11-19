@@ -1,0 +1,14 @@
+[
+  {
+    "DisplayName": "txAdmin Web Port",
+    "Category": "txAdmin:settings",
+    "Subcategory": "Web Panel:web:1",
+    "Description": "TCP port for the txAdmin dashboard. Open http://localhost:<port> on the Windows server.",
+    "Keywords": "txadmin,web,port",
+    "FieldName": "TxAdminWebPort",
+    "InputType": "number",
+    "ParamFieldName": "TxAdminWebPort",
+    "DefaultValue": "40120",
+    "EnumValues": {}
+  }
+]
